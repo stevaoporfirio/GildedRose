@@ -1,0 +1,7 @@
+C:\Users\Barigui.DESKTOP-Q1RFUEN\Desktop\prova\GildedRose\GildedRose\obj\Debug\GildedRose.csprojAssemblyReference.cache
+C:\Users\Barigui.DESKTOP-Q1RFUEN\Desktop\prova\GildedRose\GildedRose\obj\Debug\GildedRose.csproj.CoreCompileInputs.cache
+C:\Users\Barigui.DESKTOP-Q1RFUEN\Desktop\prova\GildedRose\GildedRose\bin\Debug\GildedRose.exe.config
+C:\Users\Barigui.DESKTOP-Q1RFUEN\Desktop\prova\GildedRose\GildedRose\bin\Debug\GildedRose.exe
+C:\Users\Barigui.DESKTOP-Q1RFUEN\Desktop\prova\GildedRose\GildedRose\bin\Debug\GildedRose.pdb
+C:\Users\Barigui.DESKTOP-Q1RFUEN\Desktop\prova\GildedRose\GildedRose\obj\Debug\GildedRose.exe
+C:\Users\Barigui.DESKTOP-Q1RFUEN\Desktop\prova\GildedRose\GildedRose\obj\Debug\GildedRose.pdb
